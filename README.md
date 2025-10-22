@@ -7,8 +7,8 @@ Welcome to my baseball analytics portfolio! This repository showcases my data-dr
 - **Trend Dashboard:** Tableau visualization of team-level performance trends.
 
 ## 🧰 Tools & Skills
-Python (Pandas, NumPy, Matplotlib, Scikit-Learn)  
-SQL (PostgreSQL)  
+Python  
+SQL 
 Tableau  
 Excel & Statistical Modeling  
 
