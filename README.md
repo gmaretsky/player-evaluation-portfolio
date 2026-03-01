@@ -8,8 +8,8 @@ Welcome to my baseball analytics portfolio! This repository showcases my data-dr
 
 ## Tools & Skills  
 SQL 
-Tableau  
-Excel
+|Tableau  
+|Excel|
 Statistical Softwares (JMP & jamovi)
 
 Contact
