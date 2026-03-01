@@ -7,10 +7,10 @@ Welcome to my baseball analytics portfolio! This repository showcases my data-dr
 - **Trend Dashboard:** Tableau visualization of team-level performance trends.
 
 ## Tools & Skills  
-SQL 
-|Tableau  
-|Excel|
-Statistical Softwares (JMP & jamovi)
+SQL | Tableau | Excel | Statistical Softwares (JMP & jamovi)
+  
+
+
 
 Contact
 **Grace Maretsky**  
