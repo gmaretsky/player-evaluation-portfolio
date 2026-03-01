@@ -13,6 +13,6 @@ Tableau
 Excel
 Statistical Softwares (JMP & jamovi)
 
-##Contact
+Contact
 **Grace Maretsky**  
 📧 [LinkedIn](https://www.linkedin.com/in/grace-maretsky-671686239/)
