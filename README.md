@@ -1,5 +1,5 @@
 
-Welcome to my baseball analytics portfolio! This repository showcases my data-driven projects that evaluate player performance, forecast contract values, and visualize advanced metrics using tools like SQL and Tableau.
+Welcome to my baseball analytics portfolio! This repository will showcase my data-driven projects that evaluate player performance, forecast contract values, and visualize advanced metrics using tools like SQL and Tableau.
 
 ## Projects Included
 - **WAR Analysis:** Comparative study of player WAR using FanGraphs and Baseball-Reference data.
