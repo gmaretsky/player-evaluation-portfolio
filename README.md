@@ -15,4 +15,4 @@ Statistical Softwares (JMP & jamovi)
 
 Contact
 **Grace Maretsky**  
-📧 [LinkedIn](https://www.linkedin.com/in/grace-maretsky-671686239/)
+[LinkedIn](https://www.linkedin.com/in/grace-maretsky-671686239/)
