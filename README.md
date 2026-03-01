@@ -6,8 +6,7 @@ Welcome to my baseball analytics portfolio! This repository showcases my data-dr
 - **Contract Evaluation Model:** Regression model predicting fair contract value based on performance metrics.
 - **Trend Dashboard:** Tableau visualization of team-level performance trends.
 
-## Tools & Skills
-Python  
+## Tools & Skills  
 SQL 
 Tableau  
 Excel
